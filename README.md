@@ -1,4 +1,4 @@
-# TAPE: TLS and Program Invariants
+# TIE: TLS Invariants Exploration 
 
 Ben Lowman | [GitHub](https://www.github.com/lowmanb94/invariants-as-features)
 
