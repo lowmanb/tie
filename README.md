@@ -1,8 +1,6 @@
-# TIE: TLS Invariants Exploration 
+# TIE: TLS Invariants Exploration
 
-<hr>
-
-Ben Lowman | [GitHub](https://www.github.com/lowmanb94/invariants-as-features)
+[Ben Lowman](https://www.github.com/lowmanb94/tie)
 
 ## Problem
 
